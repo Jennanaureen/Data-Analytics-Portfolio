@@ -37,7 +37,23 @@ Technologies Used
 * SQL: Utilized for data querying and initial structuring of transactional records.
 * Power Query: Employed for ETL processes and extensive data cleaning
 
+3.Spotify Audio Feature Engineering
 
+* Visualisation of correlation heatmap between music variables
+* loudness vs energy regression visualisation
+* Graphical Representation of number of songs per year
+
+Technologies Used
+
+* Jupyter Notebook
+* numpy
+* pandas
+* seaborn
+* matplotlib
+  
+
+
+  
 
 
 
