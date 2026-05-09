@@ -22,9 +22,7 @@ Showcasing data cleaning, ETL Workflows and Business intelligence visualisations
 - NumPy
 - Scikit-learn
 
- Run the Project
 
-Install dependencies:
 
 
 
