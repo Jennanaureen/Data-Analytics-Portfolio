@@ -26,15 +26,10 @@ Showcasing data cleaning, ETL Workflows and Business intelligence visualisations
 
 Description
 
--Transformed Raw Transactional Data
--Distance Based Key Performance Indicators
--Data Cleaning on 37K+ records
--Dynamic UI Design in Power BI
-
-Technologies Used
-
--Power BI(DAX)
--SQL
+* Data Transformation: Engineered a dynamic dashboard by transforming raw transactional data into actionable insights.
+* Performance Metrics: Developed distance-based Key Performance Indicators (KPIs) to quantify trip efficiencies.
+* UI/UX Design: Built a dynamic user interface in Power BI to visualize $13M+ in revenue and 37K+ ride transactions.
+* Data Integrity: Resolved inconsistencies in 37K+ raw records to ensure reporting accuracy for 625K+ km of travel data.
 
 
 
