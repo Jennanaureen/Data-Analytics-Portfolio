@@ -5,7 +5,7 @@ Showcasing data cleaning, ETL Workflows and Business intelligence visualisations
 
 1.Walmart Sales Data Analysis & Forecast Preparation
 
- Project Description
+  Description
 
 - Data Cleaning
 - Missing Value Handling
@@ -22,7 +22,11 @@ Showcasing data cleaning, ETL Workflows and Business intelligence visualisations
 - NumPy
 - Scikit-learn
 
+2.Uber Operational Analytics and BI Dashboard
 
+Description
+
+-
 
 
 
