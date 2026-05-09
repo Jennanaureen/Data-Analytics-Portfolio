@@ -26,6 +26,15 @@ Showcasing data cleaning, ETL Workflows and Business intelligence visualisations
 
 Install dependencies:
 
+
+
+
+
+
+
+
+
+
 ```bash
 pip install -r requirements.txt
 
