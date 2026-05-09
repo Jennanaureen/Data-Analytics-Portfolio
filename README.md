@@ -33,7 +33,6 @@ Showcasing data cleaning, ETL Workflows and Business intelligence visualisations
 
 
 
-```bash
-pip install -r requirements.txt
+
 
 
