@@ -26,7 +26,15 @@ Showcasing data cleaning, ETL Workflows and Business intelligence visualisations
 
 Description
 
--
+-Transformed Raw Transactional Data
+-Distance Based Key Performance Indicators
+-Data Cleaning on 37K+ records
+-Dynamic UI Design in Power BI
+
+Technologies Used
+
+-Power BI(DAX)
+-SQL
 
 
 
